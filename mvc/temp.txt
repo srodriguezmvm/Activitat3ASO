@@ -1,0 +1,6 @@
+IESMVM\administrator
+IESMVM\jordicasas
+IESMVM\pepe_usr
+IESMVM\krbtgt
+IESMVM\guest
+IESMVM\trolo
